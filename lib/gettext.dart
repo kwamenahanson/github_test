@@ -6,3 +6,4 @@
 // opposite
 // count
 // pump
+// cash
